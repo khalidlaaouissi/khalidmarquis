@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalidmarquis
 - 👀 I’m interested in Cloud and Hybrid Networking 
-- 🌱 I’m currently learning AWS / Redhat / Kuberneties 
+- 🌱 I’m currently learning AWS / Redhat / Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
